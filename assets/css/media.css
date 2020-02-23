@@ -10,8 +10,12 @@
 
 /*Tablet*/
 @media only screen and (min-width : 768px) and (max-width : 992px) {  
-    /* Styles */ 
-  }  
+    .location.home-v2 {
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        color: #777
+    }
 
 /*Mobil*/
 @media only screen and (max-width : 768px) {  

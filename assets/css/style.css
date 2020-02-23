@@ -8530,9 +8530,7 @@ figcaption {
 		-ms-flex-direction: row;
 		flex-direction: row
 	}
-	.location.home-v2 {
-		margin-bottom: 75px
-	}
+	
 	.location.hero-slider-location,
 	.location.home-v8-location {
 		left: 4%;
