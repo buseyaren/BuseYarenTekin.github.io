@@ -3075,7 +3075,7 @@ figcaption {
 	position: absolute;
 	left: 0;
 	bottom: 0;
-	margin-bottom: 42px;
+	/*margin-bottom: 42px;*/
 	color: #777
 }
 
@@ -8513,7 +8513,7 @@ figcaption {
 		right: 4%
 	}
 	.contact.home-v2 {
-		position: absolute;
+		/*position: absolute;*/
 		left: auto;
 		top: auto;
 		right: 0;
